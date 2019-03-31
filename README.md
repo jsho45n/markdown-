@@ -33,4 +33,11 @@
 ### 마크다운 글자 기울이는 방법
 - 문구 앞에 "_" 하나를 붙인다. (어떻게 그뒤의 문구를 안기울어지게하는지는 모르겠다.)
 
+### 마크다운 랑크 삼입 방법
+
+"[link keyword][id]"
+"[id]: URL "Optional Title here""
+
+"Link: [Google][googlelink]"
+
 #### 감사합니다. 
